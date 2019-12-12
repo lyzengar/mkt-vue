@@ -18,5 +18,6 @@ export default {
 <style scoped>
     .nav-bar {
         display: flex;
+        justify-content: space-around;
     }
 </style>
