@@ -15,6 +15,8 @@ export default {
 };
 </script>
 
-<style lang="stylus" scoped>
-
+<style scoped>
+    .nav-bar {
+        display: flex;
+    }
 </style>
