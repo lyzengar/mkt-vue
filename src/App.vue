@@ -1,8 +1,6 @@
 <template>
   <div id="app">
-    <h3>Taiko</h3>
-    <h3>Stands</h3>
-    <h3>Misc.</h3>
+    <NavBar />
     <!-- <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" /> -->
   </div>
