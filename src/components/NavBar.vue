@@ -29,4 +29,8 @@ export default {
         display: flex;
         justify-content: space-between;
     }
+    .nav-sections {
+        display: flex;
+        justify-content: center;
+    }
 </style>
