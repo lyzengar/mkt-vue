@@ -23,6 +23,9 @@ export default {
 
 <style scoped>
     .nav-bar {
+        border-bottom: solid black 1px;
+    }
+    .nav-head {
         display: flex;
         justify-content: space-between;
     }
