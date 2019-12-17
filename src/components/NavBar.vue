@@ -22,6 +22,7 @@ export default {
 </script>
 
 <style scoped>
+    @import url('https://fonts.googleapis.com/earlyaccess/sawarabimincho.css');
     .nav-bar {
         border-bottom: solid black 1px;
     }
@@ -32,6 +33,9 @@ export default {
         margin-bottom: -30px;
         line-height: 1.0;
     }
+    .nav-head h2:nth-child(2) {
+        font-family: "Sawarabi Mincho";
+    } 
     .nav-sections {
         display: flex;
         justify-content: center;
