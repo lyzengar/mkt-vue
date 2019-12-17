@@ -28,6 +28,9 @@ export default {
     .nav-head {
         display: flex;
         justify-content: space-between;
+        padding: 0 20px;
+        margin-bottom: -30px;
+        line-height: 1.0;
     }
     .nav-sections {
         display: flex;
