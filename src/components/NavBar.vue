@@ -43,4 +43,8 @@ export default {
     h2 {
     font-size: 34px;
     }
+    h3 {
+        padding: 0 40px;
+        font-size: 24px;
+    }
 </style>
