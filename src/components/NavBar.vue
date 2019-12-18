@@ -24,7 +24,7 @@ export default {
 <style scoped>
     @import url('https://fonts.googleapis.com/earlyaccess/sawarabimincho.css');
     .nav-bar {
-        border-bottom: solid black 1px;
+        border-bottom: solid white 1px;
     }
     .nav-head {
         display: flex;

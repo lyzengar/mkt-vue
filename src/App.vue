@@ -19,11 +19,15 @@ export default {
 </script>
 
 <style>
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica+SC');
+body {
+  margin: 0;
+}
 #app {
   background-color: black;
   color: white;
-  padding: 0 20px;
   margin-bottom: -30px;
   line-height: 1.0;
+  font-family: 'IM Fell DW Pica SC', serif;
 }
 </style>
