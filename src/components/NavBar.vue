@@ -47,4 +47,8 @@ export default {
         padding: 0 40px;
         font-size: 24px;
     }
+    h3:hover {
+        background-color: #383838;
+        cursor: pointer;
+    }
 </style>
