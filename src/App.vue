@@ -26,8 +26,6 @@ body {
 #app {
   background-color: black;
   color: white;
-  margin-bottom: -30px;
-  line-height: 1.0;
   font-family: 'IM Fell DW Pica SC', serif;
 }
 </style>
