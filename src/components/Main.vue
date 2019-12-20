@@ -7,3 +7,9 @@ export default {
     name: "Main"
 }
 </script>
+
+<style scoped>
+    .main {
+        display: flex;
+    }
+</style>
