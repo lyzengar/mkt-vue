@@ -9,5 +9,9 @@ export default {
 </script>
 
 <style scoped>
-
+    .pic {
+        width: 75%;
+        text-align: center;
+        padding-top: 20px;
+    }
 </style>
