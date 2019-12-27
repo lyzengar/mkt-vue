@@ -14,4 +14,9 @@ export default {
         text-align: center;
         padding-top: 20px;
     }
+
+    img {
+        max-width: 90%;
+        max-height: 70%;
+    }
 </style>
