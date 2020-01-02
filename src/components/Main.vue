@@ -6,7 +6,10 @@
 import Pic from "./components/Pic.vue";
 
 export default {
-    name: "Main"
+    name: "Main",
+    components: {
+        Pic
+    }
 }
 </script>
 
