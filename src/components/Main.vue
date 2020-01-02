@@ -3,6 +3,8 @@
 </template>
 
 <script>
+import Pic from "./components/Pic.vue";
+
 export default {
     name: "Main"
 }
