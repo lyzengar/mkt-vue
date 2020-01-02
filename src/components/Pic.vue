@@ -1,5 +1,5 @@
 <template>
-    <div class="pic"></div>
+    <div class="pic"><img src="https://imgur.com/qiGEPiH.jpg"></div>
 </template>
 
 <script>
