@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import Pic from "./components/Pic.vue";
+import Pic from "./Pic.vue";
 
 export default {
     name: "Main",
