@@ -16,7 +16,6 @@ export default {
   components: {
     NavBar,
     Main,
-    Pic,
     // HelloWorld
   }
 };
