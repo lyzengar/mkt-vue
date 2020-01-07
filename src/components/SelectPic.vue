@@ -27,4 +27,10 @@ button {
     font-size: 24px;
     font-family: 'IM Fell DW Pica SC', serif;
 }
+
+button:hover, button:focus {
+    background-color: #383838;
+    outline: none;
+    cursor: pointer;
+}
 </style>
