@@ -7,3 +7,7 @@ export default {
     name: "SelectPic"
 }
 </script>
+
+<style scoped>
+
+</style>
