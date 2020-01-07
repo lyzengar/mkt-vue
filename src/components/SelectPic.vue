@@ -17,4 +17,14 @@ export default {
     border-right: solid white 1px;
     padding-top: 5px;
 }
+
+button {
+    width: 99%;
+    border: none;
+    color: white;
+    background-color: black;
+    padding: 4px;
+    font-size: 24px;
+    font-family: 'IM Fell DW Pica SC', serif;
+}
 </style>
