@@ -8,7 +8,6 @@
 </template>
 
 <script>
-// import HelloWorld from "./components/HelloWorld.vue";
 import NavBar from "./components/NavBar.vue";
 import Main from "./components/Main.vue";
 export default {
@@ -16,7 +15,6 @@ export default {
   components: {
     NavBar,
     Main,
-    // HelloWorld
   }
 };
 </script>
