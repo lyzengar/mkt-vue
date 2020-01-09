@@ -12,7 +12,8 @@ import SelectPic from "./SelectPic.vue";
 export default {
     name: "Main",
     components: {
-        Pic
+        Pic,
+        SelectPic
     }
 }
 </script>
