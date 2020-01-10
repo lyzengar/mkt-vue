@@ -17,7 +17,9 @@ export default {
   }
 };
 
-let taiko = [];
+let taiko = [
+          {menu: "Asano", caption: "A1, A2, A3", URL: "https://imgur.com/Ajzm4Jh.jpg"},
+        ];
 </script>
 
 <style>
