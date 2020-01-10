@@ -16,6 +16,8 @@ export default {
     Main,
   }
 };
+
+let taiko = [];
 </script>
 
 <style>
