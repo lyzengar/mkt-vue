@@ -25,6 +25,7 @@ let taiko = [
           {menu: "Red", caption: "Red", URL: "https://imgur.com/WozGHYJ.jpg"},
           {menu: "Black and Red", caption: "BR", URL: "https://imgur.com/pQtG99L.jpg"},
           {menu: "Crestone 1", caption: "C1", URL: "https://imgur.com/rMDKk4x.jpg"},
+          {menu: "Crestone 2", caption: "C2", URL: "https://imgur.com/R0z9RgX.jpg"},
 
         ];
 </script>
