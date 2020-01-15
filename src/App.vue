@@ -31,7 +31,7 @@ let taiko = [
           {menu: "Masala", caption: "", URL: "https://imgur.com/HqGtMdG.jpg"},
           {menu: "Shime", caption: "San-cho 2x, Regular 4x", URL: "https://imgur.com/tW2lxfH.jpg"},
           {menu: "Odaiko", caption: "w/ stand", URL: "https://imgur.com/YONMJcc.jpg"},
-
+          {menu: "Okedo", caption: "", URL: "https://imgur.com/lMCiHaK.jpg"}
         ];
 </script>
 
