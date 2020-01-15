@@ -17,22 +17,22 @@ export default {
   }
 };
 
-var taiko = [
-          {menu: "Asano", caption: "A1, A2, A3", URL: "https://imgur.com/Ajzm4Jh.jpg"},
-          {menu: "Small Asano", caption: "As1, As2", URL: "https://imgur.com/oBr47Rn.jpg"},
-          {menu: "Kato", caption: "K1, K2", URL: "https://imgur.com/o059u7P.jpg"},
-          {menu: "Heavy", caption: "H", URL: "https://imgur.com/OJZPxEP.jpg"},
-          {menu: "Red", caption: "Red", URL: "https://imgur.com/WozGHYJ.jpg"},
-          {menu: "Black and Red", caption: "BR", URL: "https://imgur.com/pQtG99L.jpg"},
-          {menu: "Crestone 1", caption: "C1", URL: "https://imgur.com/rMDKk4x.jpg"},
-          {menu: "Crestone 2", caption: "C2", URL: "https://imgur.com/R0z9RgX.jpg"},
-          {menu: "Crestone 3", caption: "C3", URL: "https://imgur.com/RFkynuP.jpg"},
-          {menu: "Big Dana", caption: "", URL: "https://imgur.com/BEDGpGu.jpg"},
-          {menu: "Masala", caption: "", URL: "https://imgur.com/HqGtMdG.jpg"},
-          {menu: "Shime", caption: "San-cho 2x, Regular 4x", URL: "https://imgur.com/tW2lxfH.jpg"},
-          {menu: "Odaiko", caption: "w/ stand", URL: "https://imgur.com/YONMJcc.jpg"},
-          {menu: "Okedo", caption: "", URL: "https://imgur.com/lMCiHaK.jpg"}
-        ];
+var taiko = {
+          a: {menu: "Asano", caption: "A1, A2, A3", URL: "https://imgur.com/Ajzm4Jh.jpg"},
+          b: {menu: "Small Asano", caption: "As1, As2", URL: "https://imgur.com/oBr47Rn.jpg"},
+          c: {menu: "Kato", caption: "K1, K2", URL: "https://imgur.com/o059u7P.jpg"},
+          d: {menu: "Heavy", caption: "H", URL: "https://imgur.com/OJZPxEP.jpg"},
+          e: {menu: "Red", caption: "Red", URL: "https://imgur.com/WozGHYJ.jpg"},
+          f: {menu: "Black and Red", caption: "BR", URL: "https://imgur.com/pQtG99L.jpg"},
+          g: {menu: "Crestone 1", caption: "C1", URL: "https://imgur.com/rMDKk4x.jpg"},
+          h: {menu: "Crestone 2", caption: "C2", URL: "https://imgur.com/R0z9RgX.jpg"},
+          i: {menu: "Crestone 3", caption: "C3", URL: "https://imgur.com/RFkynuP.jpg"},
+          j: {menu: "Big Dana", caption: "", URL: "https://imgur.com/BEDGpGu.jpg"},
+          k: {menu: "Masala", caption: "", URL: "https://imgur.com/HqGtMdG.jpg"},
+          l: {menu: "Shime", caption: "San-cho 2x, Regular 4x", URL: "https://imgur.com/tW2lxfH.jpg"},
+          m: {menu: "Odaiko", caption: "w/ stand", URL: "https://imgur.com/YONMJcc.jpg"},
+          n: {menu: "Okedo", caption: "", URL: "https://imgur.com/lMCiHaK.jpg"}
+};
 </script>
 
 <style>
