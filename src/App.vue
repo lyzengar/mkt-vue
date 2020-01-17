@@ -33,6 +33,10 @@ var taiko = {
           m: {menu: "Odaiko", caption: "w/ stand", URL: "https://imgur.com/YONMJcc.jpg"},
           n: {menu: "Okedo", caption: "", URL: "https://imgur.com/lMCiHaK.jpg"}
 };
+
+var stands = {
+  
+}
 </script>
 
 <style>
