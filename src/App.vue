@@ -37,6 +37,7 @@ var taiko = {
 var stands = [
           {menu: "Box Stand", caption: "", URL: "https://imgur.com/UbLw9dU.jpg"},
           {menu: "Kato Stand", caption: "", URL: "https://imgur.com/u6Mstzr.jpg"},
+          {menu: "Yatai Stand (Asano)", caption: "", URL: "https://imgur.com/mwvfEdc.jpg"},
 
 ]
 </script>
