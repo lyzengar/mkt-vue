@@ -40,6 +40,7 @@ var stands = [
           {menu: "Yatai Stand (Asano)", caption: "", URL: "https://imgur.com/mwvfEdc.jpg"},
           {menu: "Yatai Stand (black)", caption: "", URL: "https://imgur.com/OMGqRZu.jpg"},
           {menu: "Hachijo Stand", caption: "", URL: "https://imgur.com/tJEJErD.jpg"},
+          {menu: "High Stand", caption: "", URL: "https://imgur.com/EcFS4Oq.jpg"},
 
 ]
 </script>
