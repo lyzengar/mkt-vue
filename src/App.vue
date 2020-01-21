@@ -43,6 +43,7 @@ var stands = [
           {menu: "High Stand", caption: "", URL: "https://imgur.com/EcFS4Oq.jpg"},
           {menu: "Odaiko Stand (beta)", caption: "", URL: "https://imgur.com/HEiEAyQ.jpg"},
           {menu: "Shime Stand (sitting)", caption: "", URL: "https://imgur.com/WqmRzzv.jpg"},
+          {menu: "Shime Stand (standing)", caption: "", URL: "https://imgur.com/oi5O7zW.jpg"},
 
 ]
 </script>
