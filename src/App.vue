@@ -34,7 +34,7 @@ var taiko = {
           n: {menu: "Okedo", caption: "", URL: "https://imgur.com/lMCiHaK.jpg"}
 };
 
-var stands = [
+var stands = {
           {menu: "Box Stand", caption: "", URL: "https://imgur.com/UbLw9dU.jpg"},
           {menu: "Kato Stand", caption: "", URL: "https://imgur.com/u6Mstzr.jpg"},
           {menu: "Yatai Stand (Asano)", caption: "", URL: "https://imgur.com/mwvfEdc.jpg"},
@@ -45,7 +45,7 @@ var stands = [
           {menu: "Shime Stand (sitting)", caption: "", URL: "https://imgur.com/WqmRzzv.jpg"},
           {menu: "Shime Stand (standing)", caption: "", URL: "https://imgur.com/oi5O7zW.jpg"},
           {menu: "Okedo Stand", caption: "", URL: "https://imgur.com/mODhyVr.jpg"},
-]
+}
 </script>
 
 <style>
