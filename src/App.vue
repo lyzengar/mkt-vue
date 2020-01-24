@@ -40,7 +40,7 @@ var stands = {
           c: {menu: "Yatai Stand (Asano)", caption: "", URL: "https://imgur.com/mwvfEdc.jpg"},
           d: {menu: "Yatai Stand (black)", caption: "", URL: "https://imgur.com/OMGqRZu.jpg"},
           e: {menu: "Hachijo Stand", caption: "", URL: "https://imgur.com/tJEJErD.jpg"},
-          {menu: "High Stand", caption: "", URL: "https://imgur.com/EcFS4Oq.jpg"},
+          f: {menu: "High Stand", caption: "", URL: "https://imgur.com/EcFS4Oq.jpg"},
           {menu: "Odaiko Stand (beta)", caption: "", URL: "https://imgur.com/HEiEAyQ.jpg"},
           {menu: "Shime Stand (sitting)", caption: "", URL: "https://imgur.com/WqmRzzv.jpg"},
           {menu: "Shime Stand (standing)", caption: "", URL: "https://imgur.com/oi5O7zW.jpg"},
