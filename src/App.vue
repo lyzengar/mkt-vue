@@ -47,6 +47,7 @@ var stands = {
           j: {menu: "Okedo Stand", caption: "", URL: "https://imgur.com/mODhyVr.jpg"},
           k: null,
           l: null,
+          m: null,
 }
 </script>
 
