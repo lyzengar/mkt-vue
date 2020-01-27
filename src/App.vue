@@ -44,7 +44,7 @@ var stands = {
           g: {menu: "Odaiko Stand (beta)", caption: "", URL: "https://imgur.com/HEiEAyQ.jpg"},
           h: {menu: "Shime Stand (sitting)", caption: "", URL: "https://imgur.com/WqmRzzv.jpg"},
           i: {menu: "Shime Stand (standing)", caption: "", URL: "https://imgur.com/oi5O7zW.jpg"},
-          {menu: "Okedo Stand", caption: "", URL: "https://imgur.com/mODhyVr.jpg"},
+          j: {menu: "Okedo Stand", caption: "", URL: "https://imgur.com/mODhyVr.jpg"},
 }
 </script>
 
