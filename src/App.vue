@@ -51,7 +51,10 @@ var stands = {
           n: null
 }
 
-var percussion = [];
+var percussion = [
+          {menu: "Tetsuzutsu", caption: "Tetsuzutsu (cannon)", URL: "https://imgur.com/atpRlwT.jpg"},
+
+];
 </script>
 
 <style>
