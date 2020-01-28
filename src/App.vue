@@ -50,6 +50,8 @@ var stands = {
           m: null,
           n: null
 }
+
+var percussion = [];
 </script>
 
 <style>
