@@ -55,6 +55,7 @@ var percussion = {
           a: {menu: "Tetsuzutsu", caption: "Tetsuzutsu (cannon)", URL: "https://imgur.com/atpRlwT.jpg"},
           b: {menu: "Kane", caption: "", URL: "https://imgur.com/KCeNuGs.jpg"},
           c: null,
+          d: null,
 
 };
 </script>
