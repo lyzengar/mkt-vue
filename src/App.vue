@@ -58,6 +58,7 @@ var percussion = {
           d: null,
           e: null,
           f: null,
+          g: null,
 
 };
 </script>
