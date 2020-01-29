@@ -56,6 +56,7 @@ var percussion = {
           b: {menu: "Kane", caption: "", URL: "https://imgur.com/KCeNuGs.jpg"},
           c: null,
           d: null,
+          e: null,
 
 };
 </script>
