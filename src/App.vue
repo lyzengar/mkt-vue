@@ -69,7 +69,9 @@ var percussion = {
 
 };
 
-var vm = new Vue ({})
+var vm = new Vue ({
+  data: taiko
+})
 </script>
 
 <style>
