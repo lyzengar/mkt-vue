@@ -68,6 +68,8 @@ var percussion = {
           n: null
 
 };
+
+var vm = new Vue ({})
 </script>
 
 <style>
