@@ -74,6 +74,10 @@ var vm = new Vue ({
 })
 
 handleTaiko = () => {
+
+}
+
+handleStands = () => {
   
 }
 </script>
